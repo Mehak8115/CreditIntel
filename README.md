@@ -1,3 +1,4 @@
+<img width="1840" height="855" alt="image" src="https://github.com/user-attachments/assets/f177ef64-05d9-442b-8507-5ba0200aa128" />
 # 🏦 CreditIntel
 
 A machine learning-powered loan approval prediction system built with Streamlit and Random Forest Classifier. The system analyzes applicant financial data to predict loan approval probability with 97.07% accuracy.
@@ -218,3 +219,4 @@ Update the CSS in the `st.markdown()` sections at the top of each file
 - Built with [Streamlit](https://streamlit.io/)
 - Machine learning powered by [scikit-learn](https://scikit-learn.org/)
 - Visualizations using [Plotly](https://plotly.com/)
+
